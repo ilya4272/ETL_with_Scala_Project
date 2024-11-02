@@ -9,4 +9,7 @@ Code/config.txt
 
 # SBT ve Scala build dosyaları
 target/
-project/
+.bloop/
+.metals/
+project/target/
+project/project/
