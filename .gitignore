@@ -1,0 +1,5 @@
+# Konfigürasyon dosyasını gizle
+src/main/resources/application.conf
+
+# Veri dosyasını gizle
+Data/Raw_File/songs_2000_2020_50k.csv

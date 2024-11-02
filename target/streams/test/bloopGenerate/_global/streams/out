@@ -1,0 +1,4 @@
+[debug] [scala_etl_projects-test] Classpath dependencies List()
+[debug] [scala_etl_projects-test] Dependencies from configurations List(scala_etl_projects)
+[debug] Bloop wrote the configuration of project 'scala_etl_projects-test' to 'C:\Users\ilyas\Documents\Data_Engineering\Projects\Scala_ETL_Projects\.bloop\scala_etl_projects-test.json'
+[success] Generated .bloop\scala_etl_projects-test.json
