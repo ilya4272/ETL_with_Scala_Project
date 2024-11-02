@@ -8,8 +8,10 @@ Data/Raw_File/songs_2000_2020_50k.csv
 Code/config.txt
 
 # SBT ve Scala build dosyaları
-target/
 .bloop/
 .metals/
+target/
 project/target/
 project/project/
+scala-2.12/
+streams/
