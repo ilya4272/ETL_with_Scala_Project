@@ -6,12 +6,3 @@ Data/Raw_File/songs_2000_2020_50k.csv
 
 # Config
 Code/config.txt
-
-# SBT ve Scala build dosyaları
-.bloop/
-.metals/
-target/
-project/target/
-project/project/
-scala-2.12/
-streams/
